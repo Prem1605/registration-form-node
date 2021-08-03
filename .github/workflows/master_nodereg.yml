@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'nodereg'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_74487cad124b46d89fed9e8743f90d75 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7e2d3aa59706441abf38da6ea625985c }}
         package: .
